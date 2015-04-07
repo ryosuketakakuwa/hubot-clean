@@ -21,6 +21,6 @@ Then add **hubot-clean** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> 掃除して
+hubot>> やだよ〜　⚪︎⚪︎掃除してよ〜〜
 ```

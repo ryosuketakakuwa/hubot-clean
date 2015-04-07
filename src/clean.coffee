@@ -16,4 +16,4 @@
 
 module.exports = (robot) ->
 	robot.respond /掃除して/i, (msg) ->
-    	msg.send "やだよ〜　" + (msg.random ["odk","tkgdisco","Adobeの人","tkkw","kwzr",]) + "やってよ〜〜"
+    	msg.send "やだよ〜　" + (msg.random ["odk","tkgdisco","Adobeの人","tkkw","kwzr","ysmr","jobs","pizzaotk","剣道おじさん","こがち","リュックの人","新聞社"]) + "やってよ〜〜"
