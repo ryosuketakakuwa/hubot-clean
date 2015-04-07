@@ -1,7 +1,7 @@
 {
   "name": "hubot-clean",
   "description": "Hubot select a person cleaning Keitalab",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "tkkw",
   "license": "MIT",
 
